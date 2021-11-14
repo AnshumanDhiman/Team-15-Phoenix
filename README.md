@@ -1,5 +1,5 @@
-# Team Name : name goes here
-Clone this repo and use this to upload your project  <- Remove this line before submission -> <br>
+# Team Name : Team Phoenix
+
 Team ID : **#hack7**    <!--- Replace __ with problem statement number -->
 
 ## Problem statement

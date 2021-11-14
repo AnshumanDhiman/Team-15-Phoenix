@@ -22,8 +22,8 @@ It has solution that provides us data for the  allocation and reallocation of ro
 SrNo | Name | Year | Department| Section | Email id | College
 :--|:--|:--|:--|:--|:--| :--
 1 | Anshuman Dhiman | 3rd | Information Technology | A | anshumandhiman1@gmail.com | Inderprastha Engineering College 
-2 | Prashant Sharma | 3rd | Information Technology | B | prashant16october@gmail.com | 
-3 | Vinayak Sharma | 3rd | Electronics and Communications Engineering | - | Shri Mata Vaishno Devi University | 
-4 | Vandana Jha | 2nd |  Computer Science and Engineering | - | Shri Mata Vaishno Devi University | 
+2 | Prashant Sharma | 3rd | Information Technology | B | prashant16october@gmail.com | Inderprastha Engineering College 
+3 | Vinayak Sharma | 3rd | Electronics and Communications Engineering | - | vinayaksh42@gmail.com | Shri Mata Vaishno Devi University
+4 | Vandana Jha | 2nd |  Computer Science and Engineering | - | vandanajha92283@gmail.com | Shri Mata Vaishno Devi University
 
 <br>

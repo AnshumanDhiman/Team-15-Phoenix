@@ -1,0 +1,151 @@
+.room-data-edit{
+    background-color:white;
+    display:inline-block;
+    margin-right: 12%;
+    border-radius: 20px;
+    padding: 1%;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+.room-data-edit1{
+    background-color:white;
+    display:inline-block;
+    border-radius: 20px;
+    padding: 1%;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+
+
+.req-hostel-data {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+.card-img-div {
+    text-align: center;
+}
+
+.card-img-edit1 {
+
+    height: 100%;
+    width:100%;
+}
+.card-img-edit2 {
+
+    height: 100%;
+    width:91%;
+}
+
+.card-img-edit3 {
+
+    height: 100%;
+    width:81.5%;
+}
+
+
+.card-edit {
+    transition: transform 0.5s ease;
+}
+
+.card-edit:hover {
+    transform: scale(1.1);
+}
+.room-edit {
+    transition : transform 0.5s ease;
+}
+
+.room-edit:hover {
+    transform: scale(1.5);
+}
+
+.button-edit1 {
+    border-radius: 10px;
+    background-color: #FF2E63;
+    transition: transform 0.5s ease;
+}
+
+.button-edit1:hover {
+    transform: scale(1.1);
+    background-color: #FF2E63;
+}
+
+.button-edit2 {
+    border-radius: 10px;
+    background-color: #77D970;
+    transition: transform 0.5s ease;
+}
+
+.button-edit2:hover {
+    transform: scale(1.1);
+    background-color: #77D970;
+}
+
+.homepage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:center;
+    width: 50vw;
+    height: 50vh;
+    border-radius: 20px;
+    box-shadow: 0 0 15px 5px grey;
+    background: white;
+    position: relative
+}
+
+.homepage > .button {
+    background: #1877f2;
+    border: 1px solid #1877f2;
+    color: #fff;
+    font-size: 1.25rem;
+    padding: 0.5rem;
+    margin: 0.5rem 0;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+}
+
+.dash-main {
+    background-color: #0e61af;
+
+}
+
+
+.site-card-wrapper {
+    margin: 20px 100px;
+}
+
+.legend-item-box {
+    width: 25px;
+    height: 25px;
+    margin: 10px 10px;
+    border-radius: 20%;
+}
+
+.legend-item-box:hover {
+    width: 25px;
+    height: 25px;
+    border-radius: 30%;
+    margin: 10px 10px;
+    border: 4px solid lightcoral;
+}
+
+.room-box {
+    float: left;
+}
+
+.btn-group {
+    margin: 10px;
+    width: 100%;
+}
+
+.ant-btn {
+    margin-right:10px !important;
+}
+
+.selected {
+    width: 25px;
+    height: 25px;
+    border-radius: 30%;
+    margin: 10px 10px;
+    border: 4px solid lightblue;
+}
